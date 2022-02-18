@@ -1,0 +1,157 @@
+2022-02-16 16:20:36:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:23:31:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:23:56:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:24:21:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:24:54:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:26:02:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:26:54:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:27:12:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:29:54:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-16 16:30:50:ERROR:failed to run app with cli err: 'BasePlayer' object is not subscriptable
+2022-02-16 16:32:06:ERROR:failed to run app with cli err: 'BasePlayer' object is not subscriptable
+2022-02-16 16:33:24:ERROR:failed to run app with cli err: 'BasePlayer' object is not subscriptable
+2022-02-16 16:41:29:ERROR:failed to run app with cli err: 'BasePlayer' object is not subscriptable
+2022-02-16 16:42:24:INFO:player Bob was killed
+2022-02-16 16:42:24:INFO:player Ann is shooting target Bob with damage 40
+2022-02-16 16:48:23:INFO:player Ann is shooting target Bob with damage 40
+2022-02-16 16:48:35:ERROR:failed to run app with cli err: disconnect_player() missing 1 required positional argument: 'username'
+2022-02-16 16:50:52:INFO:setting initial status
+2022-02-16 16:50:52:INFO:status is read from json
+2022-02-16 16:50:52:INFO:disconnection started
+2022-02-16 16:50:52:DEBUG:player is removed
+2022-02-16 16:50:52:DEBUG:data serialized
+2022-02-16 16:50:52:INFO:player connected
+2022-02-16 16:50:52:INFO:player Bob was killed
+2022-02-16 16:50:52:INFO:player Ann is shooting target Bob with damage 40
+2022-02-16 16:54:06:INFO:setting initial status
+2022-02-16 16:54:06:INFO:status is read from json
+2022-02-16 16:54:06:INFO:starts updating game state to end
+2022-02-16 16:54:06:INFO:game state is updated
+2022-02-16 16:54:43:DEBUG:connecting player: Joe PlayerType.Base
+2022-02-16 16:54:43:INFO:setting initial status
+2022-02-16 16:54:43:INFO:status is read from json
+2022-02-16 16:54:43:INFO:connection started
+2022-02-16 16:54:43:DEBUG:player appended to list
+2022-02-16 16:54:43:DEBUG:data serialized
+2022-02-16 16:54:43:INFO:player connected
+2022-02-16 16:54:43:INFO:player was successfully connected: Joe
+2022-02-16 16:55:00:DEBUG:connecting player: Dan PlayerType.Skeleton
+2022-02-16 16:55:00:INFO:setting initial status
+2022-02-16 16:55:00:INFO:status is read from json
+2022-02-16 16:55:00:INFO:connection started
+2022-02-16 16:55:00:DEBUG:player appended to list
+2022-02-16 16:55:00:DEBUG:data serialized
+2022-02-16 16:55:00:INFO:player connected
+2022-02-16 16:55:00:INFO:player was successfully connected: Dan
+2022-02-17 13:51:21:DEBUG:connecting player: Kate PlayerType.Skeleton
+2022-02-17 13:51:21:INFO:setting initial status
+2022-02-17 13:51:21:INFO:status is read from json
+2022-02-17 13:51:21:INFO:connection started
+2022-02-17 13:51:21:DEBUG:player appended to list
+2022-02-17 13:51:21:DEBUG:data serialized
+2022-02-17 13:51:21:INFO:player connected
+2022-02-17 13:51:21:INFO:player was successfully connected: Kate
+2022-02-17 13:52:57:DEBUG:connecting player: Kile PlayerType.Skeleton
+2022-02-17 13:52:57:INFO:setting initial status
+2022-02-17 13:52:57:INFO:status is read from json
+2022-02-17 13:52:57:INFO:connection started
+2022-02-17 13:52:57:ERROR:failed to run app with cli err: 'GameUsecase' object has no attribute 'state'
+2022-02-17 13:55:30:DEBUG:connecting player: Kile PlayerType.Skeleton
+2022-02-17 13:55:30:INFO:setting initial status
+2022-02-17 13:55:30:INFO:status is read from json
+2022-02-17 13:55:30:INFO:connection started
+2022-02-17 13:55:30:DEBUG:player appended to list
+2022-02-17 13:55:30:DEBUG:data serialized
+2022-02-17 13:55:30:INFO:player connected
+2022-02-17 13:55:30:INFO:player was successfully connected: Kile
+2022-02-17 13:56:08:DEBUG:connecting player: Kile PlayerType.Skeleton
+2022-02-17 13:56:08:INFO:setting initial status
+2022-02-17 13:56:08:INFO:status is read from json
+2022-02-17 13:56:08:INFO:connection started
+2022-02-17 13:56:08:INFO:player was successfully connected: Kile
+2022-02-17 13:56:40:INFO:setting initial status
+2022-02-17 13:56:40:INFO:status is read from json
+2022-02-17 13:56:40:INFO:starts updating game state to start
+2022-02-17 13:56:40:INFO:game state is updated
+2022-02-17 13:56:52:DEBUG:connecting player: Mike PlayerType.Skeleton
+2022-02-17 13:56:52:INFO:setting initial status
+2022-02-17 13:56:52:INFO:status is read from json
+2022-02-17 13:56:52:INFO:connection started
+2022-02-17 13:56:52:INFO:player was successfully connected: Mike
+2022-02-17 14:00:22:DEBUG:connecting player: Jack PlayerType.Skeleton
+2022-02-17 14:00:22:INFO:setting initial status
+2022-02-17 14:00:22:INFO:status is read from json
+2022-02-17 14:00:22:INFO:connection started
+2022-02-17 14:00:22:INFO:player was successfully connected: Jack
+2022-02-17 14:00:34:INFO:setting initial status
+2022-02-17 14:00:34:INFO:status is read from json
+2022-02-17 14:00:34:INFO:starts updating game state to end
+2022-02-17 14:00:34:INFO:game state is updated
+2022-02-17 14:00:38:DEBUG:connecting player: Jack PlayerType.Skeleton
+2022-02-17 14:00:38:INFO:setting initial status
+2022-02-17 14:00:38:INFO:status is read from json
+2022-02-17 14:00:38:INFO:connection started
+2022-02-17 14:00:38:DEBUG:player appended to list
+2022-02-17 14:00:38:DEBUG:data serialized
+2022-02-17 14:00:38:INFO:player connected
+2022-02-17 14:00:38:INFO:player was successfully connected: Jack
+2022-02-17 14:01:34:INFO:the game hasn't started yet
+2022-02-17 14:01:47:INFO:setting initial status
+2022-02-17 14:01:47:INFO:status is read from json
+2022-02-17 14:01:47:INFO:starts updating game state to start
+2022-02-17 14:01:47:INFO:game state is updated
+2022-02-17 14:01:55:INFO:player Ann is shooting target Jack with damage 40
+2022-02-17 14:02:05:INFO:player Ann is shooting target Jack with damage 40
+2022-02-17 14:02:15:INFO:setting initial status
+2022-02-17 14:02:15:INFO:status is read from json
+2022-02-17 14:02:15:INFO:disconnection started
+2022-02-17 14:02:15:DEBUG:player is removed
+2022-02-17 14:02:15:DEBUG:data serialized
+2022-02-17 14:02:15:INFO:player connected
+2022-02-17 14:02:15:INFO:player Jack was killed
+2022-02-17 14:02:15:INFO:player Ann is shooting target Jack with damage 40
+2022-02-17 14:06:55:INFO:player Ann is shooting target Kile with damage 40
+2022-02-17 14:07:00:INFO:player Ann is shooting target Kile with damage 40
+2022-02-17 14:07:01:INFO:setting initial status
+2022-02-17 14:07:01:INFO:status is read from json
+2022-02-17 14:07:01:INFO:disconnection started
+2022-02-17 14:07:01:DEBUG:player is removed
+2022-02-17 14:07:01:DEBUG:data serialized
+2022-02-17 14:07:01:INFO:player connected
+2022-02-17 14:07:01:INFO:player Kile was killed
+2022-02-17 14:07:01:INFO:player Ann is shooting target Kile with damage 40
+2022-02-17 14:10:39:INFO:player Ann is shooting target Kate with damage 40
+2022-02-17 14:10:41:INFO:player Ann is shooting target Kate with damage 40
+2022-02-17 14:10:42:INFO:setting initial status
+2022-02-17 14:10:42:INFO:status is read from json
+2022-02-17 14:10:42:INFO:disconnection started
+2022-02-17 14:10:42:DEBUG:player is removed
+2022-02-17 14:10:42:DEBUG:data serialized
+2022-02-17 14:10:42:INFO:player connected
+2022-02-17 14:10:42:INFO:player Kate was killed
+2022-02-17 14:10:42:ERROR:failed to run app with cli err: 'SkeletonPlayer' object is not subscriptable
+2022-02-17 14:11:30:ERROR:failed to run app with cli err: 'NoneType' object has no attribute 'hp'
+2022-02-17 14:11:54:ERROR:failed to run app with cli err: local variable 'players' referenced before assignment
+2022-02-17 14:12:24:INFO:player Ann is shooting target Joe with damage 40
+2022-02-17 14:12:48:ERROR:failed to run app with cli err: list indices must be integers or slices, not str
+2022-02-17 14:13:04:INFO:player Ann is shooting target Joe with damage 40
+2022-02-17 14:13:39:ERROR:failed to run app with cli err: 'SkeletonPlayer' object is not subscriptable
+2022-02-17 14:15:31:INFO:player Ann is shooting target Dan with damage 40
+2022-02-17 14:17:03:INFO:setting initial status
+2022-02-17 14:17:03:INFO:status is read from json
+2022-02-17 14:17:03:INFO:disconnection started
+2022-02-17 14:17:03:DEBUG:player is removed
+2022-02-17 14:17:03:DEBUG:data serialized
+2022-02-17 14:17:03:INFO:player connected
+2022-02-17 14:17:03:INFO:player Joe was killed
+2022-02-17 14:17:03:INFO:player Ann is shooting target Joe with damage 40
+2022-02-17 14:17:14:INFO:player Ann is shooting target Dan with damage 40
+2022-02-17 14:17:19:INFO:setting initial status
+2022-02-17 14:17:19:INFO:status is read from json
+2022-02-17 14:17:19:INFO:disconnection started
+2022-02-17 14:17:19:DEBUG:player is removed
+2022-02-17 14:17:19:DEBUG:data serialized
+2022-02-17 14:17:19:INFO:player connected
+2022-02-17 14:17:19:INFO:player Dan was killed
+2022-02-17 14:17:19:INFO:player Ann is the winner!
+2022-02-17 14:17:19:INFO:player Ann is shooting target Dan with damage 40

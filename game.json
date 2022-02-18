@@ -1,0 +1,11 @@
+{
+    "players": [
+        {
+            "username": "Ann",
+            "type": "Skeleton",
+            "hp": 70,
+            "damage": 40
+        }
+    ],
+    "state": "Start"
+}
