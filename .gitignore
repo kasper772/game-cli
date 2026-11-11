@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Runtime files (created when the game runs)
+game.json
+history.log
+log/*.log
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
